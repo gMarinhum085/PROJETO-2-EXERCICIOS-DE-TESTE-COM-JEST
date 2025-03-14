@@ -1,0 +1,21 @@
+{
+  "name": "__tests__",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jes": "^0.6.1"
+  }
+}
